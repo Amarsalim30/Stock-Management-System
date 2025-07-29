@@ -34,11 +34,13 @@ gantt
     section 🚀 Release
     Release v1.0                :release,        2025-08-26, 1d
 ```
+```code
 Sprint 1 – Frontend MVP
 ├─ FR-001: Product Creation (Backlog → In Progress)
 ├─ FR-002: Product Editing (Ready)
 ├─ FR-004: RBAC Implementation (Testing)
 └─ FR-008: Supplier Management (Complete)
+```
 ---
 🛠 Technologies & Stack
 Frontend: Flutter (Clean Architecture, MVVM)
