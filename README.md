@@ -6,13 +6,13 @@
 
 ## 📁 Phase 1 Documentation
 
-| 📄 Document | Description | Download |
-|------------|-------------|----------|
-| **Project Charter** | Defines project objectives, scope, stakeholders, and authority structure | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20%F0%9F%94%B9%20Phase%201%20Initiation%20%26%20Requirements/1.StockTrackPro_Project_Charter.docx) |
-| **Software Requirements Specification (SRS)** | Captures all functional and non-functional system requirements | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20Phase%201%20Initiation%20%26%20Requirements/2.Software%20Requirements%20Specification.docx) |
-| **Business Requirements Document (BRD)** | Outlines business goals, pain points, and desired capabilities | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20Phase%201%20Initiation%20%26%20Requirements/3.Business%20Requirements%20Document.docx) |
-| **Stakeholder Register** | Documents key stakeholders, roles, interests, and communication plan | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20Phase%201%20Initiation%20%26%20Requirements/5.Stakeholder%20Register.docx) |
-| **Requirements Traceability Matrix (RTM)** | Maps requirements to design, test coverage, and current status | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/project-automation/rtm_stocktrackpro.docx) |
+| 📄 Document                                   | Description                                                              | Download                                                                                                                                                                                                   |
+| --------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Charter**                           | Defines project objectives, scope, stakeholders, and authority structure | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20%F0%9F%94%B9%20Phase%201%20Initiation%20%26%20Requirements/1.StockTrackPro_Project_Charter.docx) |
+| **Software Requirements Specification (SRS)** | Captures all functional and non-functional system requirements           | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20Phase%201%20Initiation%20%26%20Requirements/2.Software%20Requirements%20Specification.docx)      |
+| **Business Requirements Document (BRD)**      | Outlines business goals, pain points, and desired capabilities           | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20Phase%201%20Initiation%20%26%20Requirements/3.Business%20Requirements%20Document.docx)           |
+| **Stakeholder Register**                      | Documents key stakeholders, roles, interests, and communication plan     | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/%23%23%23%20Phase%201%20Initiation%20%26%20Requirements/5.Stakeholder%20Register.docx)                       |
+| **Requirements Traceability Matrix (RTM)**    | Maps requirements to design, test coverage, and current status           | [📥 Download](https://github.com/Amarsalim30/Stock-Management-System/raw/master/Frontend/docs/project-automation/rtm_stocktrackpro.docx)                                                                   |
 
 ---
 
@@ -34,30 +34,42 @@ gantt
     section 🚀 Release
     Release v1.0                 :         release,    2025-08-26, 1d
 ```
-#📌 Sprint 1 Snapshot
-```code
+
+---
+
+## 📌 Sprint 1 Snapshot
+
+```text
 Sprint 1 – Frontend MVP
 ├─ ✅ FR-001: Product Creation (In Progress)
 ├─ 🟡 FR-002: Product Editing (Ready)
 ├─ 🧪 FR-004: RBAC Implementation (Testing)
 └─ ✅ FR-008: Supplier Management (Complete)
 ```
-###🛠 Tech Stack
-#Frontend: Flutter (MVVM, Clean Architecture)
 
-#Backend: Spring Boot (RESTful APIs)
+---
 
-#Database: Firebase Firestore
+### 🛠 Tech Stack
 
-#Authentication: Firebase Auth
+* **Frontend:** Flutter (MVVM, Clean Architecture)
+* **Backend:** Spring Boot (RESTful APIs)
+* **Database:** Firebase Firestore
+* **Authentication:** Firebase Auth
+* **DevOps:** GitHub Projects (Agile Iterative Board)
+* **CI/CD:** GitHub Actions
 
-#DevOps: GitHub Projects (Agile Iterative Board)
+---
 
-#CI/CD: GitHub Actions
+## 📞 Contact
 
-📞 Contact
-Role	Name	Email
-Product Owner	Amar Salim Batheif	asabatheif@gmail.com
-Client	Zeyn Caterers Ltd.	zeyn@zeyn.co.ke
+| Role          | Name               | Email                                               |
+| ------------- | ------------------ | --------------------------------------------------- |
+| Product Owner | Amar Salim Batheif | [asabatheif@gmail.com](mailto:asabatheif@gmail.com) |
+| Client        | Zeyn Caterers Ltd. | [zeyn@zeyn.co.ke](mailto:zeyn@zeyn.co.ke)           |
 
-Built with ❤️ by Amarion Technologies — Clarity Engineered™
+---
+
+> Built with ❤️ by **Amarion Technologies** — *Clarity Engineered™*
+
+---
+
